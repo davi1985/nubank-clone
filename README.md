@@ -17,11 +17,11 @@ Nubank screen clone project
 
 <div style="display: flex; gap: 10px;">
 
-  <img src="./screenshots/screen-01.png" alt="Nubank Clone" style="width: 200; border-radius: 8px;"/>
+  <img src="./screenshots/screen-01.png" alt="Nubank Clone" style="width: 200px; border-radius: 8px;"/>
 
-  <img src="./screenshots/screen-02.png" alt="Nubank Clone" style="width: 200;border-radius: 8px;"/>
+  <img src="./screenshots/screen-02.png" alt="Nubank Clone" style="width: 200px;border-radius: 8px;"/>
 
-  <img src="./screenshots/screen-03.png" alt="Nubank Clone" style="width: 200;border-radius: 8px;"/>
+  <img src="./screenshots/screen-03.png" alt="Nubank Clone" style="width: 200px;border-radius: 8px;"/>
 
 </div>
 
